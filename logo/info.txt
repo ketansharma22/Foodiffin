@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: amita-bold
+font link: https://fonts.google.com/specimen/Amita
+font author: Eduardo Tunni
+font author site: http://www.tipo.net.ar/
+Slogan Font: Neuton-Extralight.ttf
+
+icon designer: I Like Bears
+icon designer link: /ilkebrs
+        
+
+fontColor: {"gradient-0":"#A97B78","gradient-1":"#7F9BA0"}
+bgColor: {"hex":"#3A5436"}
+iconColor: {"gradient-0":"#A97B78","gradient-1":"#7F9BA0"}
+sloganColor: {"gradient-0":"#FFFFFF","gradient-1":"#FFFAFA"}
+      
